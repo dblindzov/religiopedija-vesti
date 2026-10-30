@@ -1,0 +1,43 @@
+name: Вести са блога
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # сваког сата, 7 минута после пуног сата
+  workflow_dispatch:       # дугме „Run workflow“ за ручно покретање
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vesti
+  cancel-in-progress: false
+
+jobs:
+  azuriraj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Инсталирај Pillow
+        run: pip install --quiet Pillow
+
+      - name: Прочитај блог и направи вести
+        run: python azuriraj_vesti.py
+
+      - name: Сачувај промене и освежи jsDelivr
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Нема промена."
+            exit 0
+          fi
+          git commit -m "Ажуриране вести са блога"
+          git push
+          sleep 15
+          curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${GITHUB_REF_NAME}/vesti.js" || true
