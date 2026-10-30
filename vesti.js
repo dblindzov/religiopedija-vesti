@@ -2,6 +2,24 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Музика под забраном: авганистански музичари свирају у тајности",
+   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_316.html",
+   "datum": "2026-10-30",
+   "slika": "slike/e4222c972711f858.jpg"
+  },
+  {
+   "naslov": "Полиција у Утар Прадешу у Индији пуца у ноге осумњиченима за шверц крава, већина жртава муслимани",
+   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_732.html",
+   "datum": "2026-10-30",
+   "slika": "slike/055bd5665e399a1d.jpg"
+  },
+  {
+   "naslov": "Лав XIV први папа који је гласао на америчким изборима",
+   "link": "https://5pasusa.blogspot.com/2026/10/xiv.html",
+   "datum": "2026-10-30",
+   "slika": "slike/f9758eb4e077ddc8.jpg"
+  },
+  {
    "naslov": "Ватикан обележава век папамобила",
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_508.html",
    "datum": "2026-10-30",
@@ -30,24 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post.html",
    "datum": "2026-10-30",
    "slika": "slike/5968e0a5605a7d70.jpg"
-  },
-  {
-   "naslov": "Нови закон о „етничком јединству\" продубљује страх од културне асимилације у Тибету",
-   "link": "https://5pasusa.blogspot.com/2026/08/blog-post_279.html",
-   "datum": "2026-08-05",
-   "slika": "slike/0477a3a791597323.jpg"
-  },
-  {
-   "naslov": "Милиони на ходочашћу Арбаину у Карбали, у сенци рата и регионалних тензија",
-   "link": "https://5pasusa.blogspot.com/2026/08/blog-post_05.html",
-   "datum": "2026-08-05",
-   "slika": "slike/068dc9ee39b12a68.jpg"
-  },
-  {
-   "naslov": "Клизиште у Етиопији усмртило 14 верника окупљених на служби у манастиру",
-   "link": "https://5pasusa.blogspot.com/2026/08/14.html",
-   "datum": "2026-08-05",
-   "slika": "slike/cfcc88b626d698b0.jpg"
   }
  ]
 });
