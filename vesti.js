@@ -2,6 +2,12 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Јеврејски бивши полицајац у редовима исламистичке странке",
+   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_31.html",
+   "datum": "2026-10-31",
+   "slika": "slike/f65eb3c133e3e5b4.jpg"
+  },
+  {
    "naslov": "Музика под забраном: авганистански музичари свирају у тајности",
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_316.html",
    "datum": "2026-10-30",
@@ -42,12 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_30.html",
    "datum": "2026-10-30",
    "slika": "slike/c12412a1b8b33b86.jpg"
-  },
-  {
-   "naslov": "Док историјска епидемија малих богиња погађа земљу Амиша у Пенсилванији, све више њих показује отвореност за вакцине",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post.html",
-   "datum": "2026-10-30",
-   "slika": "slike/5968e0a5605a7d70.jpg"
   }
  ]
 });
