@@ -2,6 +2,18 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Дан мртвих у Мексику као древна традиција између побожности и масовног туризма",
+   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_584.html",
+   "datum": "2026-10-31",
+   "slika": "slike/9b8abdf8efe001d0.jpg"
+  },
+  {
+   "naslov": "Британски авантуриста Карл Бушби пред крајем 28-годишњег пешачења око света",
+   "link": "https://5pasusa.blogspot.com/2026/10/28.html",
+   "datum": "2026-10-31",
+   "slika": "slike/2eacbdae5f9755ff.jpg"
+  },
+  {
    "naslov": "Јеврејски бивши полицајац у редовима исламистичке странке",
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_31.html",
    "datum": "2026-10-31",
@@ -36,18 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_366.html",
    "datum": "2026-10-30",
    "slika": "slike/47ac56f498f282e6.jpg"
-  },
-  {
-   "naslov": "У два напада у етиопској области Оромија убијено најмање 60 православних хришћана",
-   "link": "https://5pasusa.blogspot.com/2026/10/60.html",
-   "datum": "2026-10-30",
-   "slika": "slike/654dead047fbf2d8.jpg"
-  },
-  {
-   "naslov": "Невен који води душе кући: цемпасучил у срцу Дана мртвих",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_30.html",
-   "datum": "2026-10-30",
-   "slika": "slike/c12412a1b8b33b86.jpg"
   }
  ]
 });
