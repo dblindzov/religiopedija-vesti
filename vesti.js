@@ -2,6 +2,18 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Папа Лав XIV посећује парохију у кварту Монтевидеа погођеном нарко-насиљем",
+   "link": "https://5pasusa.blogspot.com/2026/11/xiv.html",
+   "datum": "2026-11-01",
+   "slika": "slike/64fa3d9daa7f1fcc.jpg"
+  },
+  {
+   "naslov": "Филипинци обележили Ундас, сећање на преминуле које спаја генерације",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post.html",
+   "datum": "2026-11-01",
+   "slika": "slike/2605d727bb840e3b.jpg"
+  },
+  {
    "naslov": "Дан мртвих у Мексику као древна традиција између побожности и масовног туризма",
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_584.html",
    "datum": "2026-10-31",
@@ -36,18 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/10/xiv.html",
    "datum": "2026-10-30",
    "slika": "slike/f9758eb4e077ddc8.jpg"
-  },
-  {
-   "naslov": "Ватикан обележава век папамобила",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_508.html",
-   "datum": "2026-10-30",
-   "slika": "slike/34ad50e02dd9aafe.jpg"
-  },
-  {
-   "naslov": "Правници литванског Сејма: предлози закона против Литванске православне цркве противни Уставу",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_366.html",
-   "datum": "2026-10-30",
-   "slika": "slike/47ac56f498f282e6.jpg"
   }
  ]
 });
