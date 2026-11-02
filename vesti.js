@@ -2,6 +2,24 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Став Велике Британије о њеној улози у трговини робљем се мења, али репарације остају ван расправе",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_244.html",
+   "datum": "2026-11-02",
+   "slika": "slike/c0ed471d03a51ef7.jpg"
+  },
+  {
+   "naslov": "Оџалан премештен у новоизграђени део затвора на Имралију",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_02.html",
+   "datum": "2026-11-02",
+   "slika": "slike/9f9ee658f96b4a61.jpg"
+  },
+  {
+   "naslov": "Бутан за један дан подигао 108 ступа у Граду свесности Гелепу",
+   "link": "https://5pasusa.blogspot.com/2026/11/108.html",
+   "datum": "2026-11-02",
+   "slika": "slike/bf255c4b5f66bb1b.jpg"
+  },
+  {
    "naslov": "Папа Лав XIV посећује парохију у кварту Монтевидеа погођеном нарко-насиљем",
    "link": "https://5pasusa.blogspot.com/2026/11/xiv.html",
    "datum": "2026-11-01",
@@ -30,24 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_31.html",
    "datum": "2026-10-31",
    "slika": "slike/f65eb3c133e3e5b4.jpg"
-  },
-  {
-   "naslov": "Музика под забраном: авганистански музичари свирају у тајности",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_316.html",
-   "datum": "2026-10-30",
-   "slika": "slike/e4222c972711f858.jpg"
-  },
-  {
-   "naslov": "Полиција у Утар Прадешу у Индији пуца у ноге осумњиченима за шверц крава, већина жртава муслимани",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_732.html",
-   "datum": "2026-10-30",
-   "slika": "slike/055bd5665e399a1d.jpg"
-  },
-  {
-   "naslov": "Лав XIV први папа који је гласао на америчким изборима",
-   "link": "https://5pasusa.blogspot.com/2026/10/xiv.html",
-   "datum": "2026-10-30",
-   "slika": "slike/f9758eb4e077ddc8.jpg"
   }
  ]
 });
