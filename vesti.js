@@ -2,6 +2,12 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Савезна судија наложила властима Ајове да дозволе празнични скуп Сатанистичког храма у Капитолу",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_03.html",
+   "datum": "2026-11-03",
+   "slika": "slike/5bf5a8d2379aaca0.jpg"
+  },
+  {
    "naslov": "Став Велике Британије о њеној улози у трговини робљем се мења, али репарације остају ван расправе",
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_244.html",
    "datum": "2026-11-02",
@@ -42,12 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/10/28.html",
    "datum": "2026-10-31",
    "slika": "slike/2eacbdae5f9755ff.jpg"
-  },
-  {
-   "naslov": "Јеврејски бивши полицајац у редовима исламистичке странке",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_31.html",
-   "datum": "2026-10-31",
-   "slika": "slike/f65eb3c133e3e5b4.jpg"
   }
  ]
 });
