@@ -2,6 +2,12 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Преминула сестра Џун Карпентер, једна од последњих шејкерки на свету",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_04.html",
+   "datum": "2026-11-04",
+   "slika": "slike/59e321929c754310.jpg"
+  },
+  {
    "naslov": "Савезна судија наложила властима Ајове да дозволе празнични скуп Сатанистичког храма у Капитолу",
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_03.html",
    "datum": "2026-11-03",
@@ -42,12 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/10/blog-post_584.html",
    "datum": "2026-10-31",
    "slika": "slike/9b8abdf8efe001d0.jpg"
-  },
-  {
-   "naslov": "Британски авантуриста Карл Бушби пред крајем 28-годишњег пешачења око света",
-   "link": "https://5pasusa.blogspot.com/2026/10/28.html",
-   "datum": "2026-10-31",
-   "slika": "slike/2eacbdae5f9755ff.jpg"
   }
  ]
 });
