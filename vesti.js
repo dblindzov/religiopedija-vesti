@@ -2,6 +2,12 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Боб Дилан у приватној посети папи Лаву XIV",
+   "link": "https://5pasusa.blogspot.com/2026/11/xiv_0749125775.html",
+   "datum": "2026-11-05",
+   "slika": "slike/a508546676e59aea.jpg"
+  },
+  {
    "naslov": "Преминула сестра Џун Карпентер, једна од последњих шејкерки на свету",
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_04.html",
    "datum": "2026-11-04",
@@ -42,12 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post.html",
    "datum": "2026-11-01",
    "slika": "slike/2605d727bb840e3b.jpg"
-  },
-  {
-   "naslov": "Дан мртвих у Мексику као древна традиција између побожности и масовног туризма",
-   "link": "https://5pasusa.blogspot.com/2026/10/blog-post_584.html",
-   "datum": "2026-10-31",
-   "slika": "slike/9b8abdf8efe001d0.jpg"
   }
  ]
 });
