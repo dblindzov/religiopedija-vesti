@@ -2,6 +2,36 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Дивали, празник светлости, обележава се 8. новембра",
+   "link": "https://5pasusa.blogspot.com/2026/11/8.html",
+   "datum": "2026-11-06",
+   "slika": "slike/9c322e6bf6def5fb.jpg"
+  },
+  {
+   "naslov": "Вођа кенијског култа глади осуђен на 200 година затвора",
+   "link": "https://5pasusa.blogspot.com/2026/11/200.html",
+   "datum": "2026-11-06",
+   "slika": "slike/d76b0c23061164f8.jpg"
+  },
+  {
+   "naslov": "Рохинџе у Малезији: вера у изгнанству, између слободе молитве и страха од притвора",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_218.html",
+   "datum": "2026-11-06",
+   "slika": "slike/8eef15c91c610db1.jpg"
+  },
+  {
+   "naslov": "Белорусија осудила католичког свештеника на три године затвора због противљења рату у Украјини",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_930.html",
+   "datum": "2026-11-06",
+   "slika": "slike/cf93e73b809d07f0.jpg"
+  },
+  {
+   "naslov": "Абдул Ел Сајед први муслиман изабран у Сенат САД",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_06.html",
+   "datum": "2026-11-06",
+   "slika": "slike/8678e219e86a42b3.jpg"
+  },
+  {
    "naslov": "Боб Дилан у приватној посети папи Лаву XIV",
    "link": "https://5pasusa.blogspot.com/2026/11/xiv_0749125775.html",
    "datum": "2026-11-05",
@@ -18,36 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_03.html",
    "datum": "2026-11-03",
    "slika": "slike/5bf5a8d2379aaca0.jpg"
-  },
-  {
-   "naslov": "Став Велике Британије о њеној улози у трговини робљем се мења, али репарације остају ван расправе",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_244.html",
-   "datum": "2026-11-02",
-   "slika": "slike/c0ed471d03a51ef7.jpg"
-  },
-  {
-   "naslov": "Оџалан премештен у новоизграђени део затвора на Имралију",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_02.html",
-   "datum": "2026-11-02",
-   "slika": "slike/9f9ee658f96b4a61.jpg"
-  },
-  {
-   "naslov": "Бутан за један дан подигао 108 ступа у Граду свесности Гелепу",
-   "link": "https://5pasusa.blogspot.com/2026/11/108.html",
-   "datum": "2026-11-02",
-   "slika": "slike/bf255c4b5f66bb1b.jpg"
-  },
-  {
-   "naslov": "Папа Лав XIV посећује парохију у кварту Монтевидеа погођеном нарко-насиљем",
-   "link": "https://5pasusa.blogspot.com/2026/11/xiv.html",
-   "datum": "2026-11-01",
-   "slika": "slike/64fa3d9daa7f1fcc.jpg"
-  },
-  {
-   "naslov": "Филипинци обележили Ундас, сећање на преминуле које спаја генерације",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post.html",
-   "datum": "2026-11-01",
-   "slika": "slike/2605d727bb840e3b.jpg"
   }
  ]
 });
