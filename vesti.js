@@ -2,6 +2,24 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Јерарх Македонске православне цркве служио Литургију у манастиру Александријске патријаршије у Каиру",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_168.html",
+   "datum": "2026-11-13",
+   "slika": "slike/70ddcb630340cc3b.jpg"
+  },
+  {
+   "naslov": "Врховни суд Украјине одузео УПЦ Богојављенски манастир у Кременецу",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_836.html",
+   "datum": "2026-11-13",
+   "slika": "slike/d9939659e4e2fd22.jpg"
+  },
+  {
+   "naslov": "Папа Лав XIV враћа се у „свој“ Чиклајо",
+   "link": "https://5pasusa.blogspot.com/2026/11/xiv_01298559619.html",
+   "datum": "2026-11-13",
+   "slika": "slike/29d21ad957a36c03.jpg"
+  },
+  {
    "naslov": "Служена прва литургија у дрвеној цркви на првом православном гробљу у Јапану",
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_719.html",
    "datum": "2026-11-13",
@@ -30,24 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/11/8.html",
    "datum": "2026-11-06",
    "slika": "slike/9c322e6bf6def5fb.jpg"
-  },
-  {
-   "naslov": "Вођа кенијског култа глади осуђен на 200 година затвора",
-   "link": "https://5pasusa.blogspot.com/2026/11/200.html",
-   "datum": "2026-11-06",
-   "slika": "slike/d76b0c23061164f8.jpg"
-  },
-  {
-   "naslov": "Рохинџе у Малезији: вера у изгнанству, између слободе молитве и страха од притвора",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_218.html",
-   "datum": "2026-11-06",
-   "slika": "slike/8eef15c91c610db1.jpg"
-  },
-  {
-   "naslov": "Белорусија осудила католичког свештеника на три године затвора због противљења рату у Украјини",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_930.html",
-   "datum": "2026-11-06",
-   "slika": "slike/cf93e73b809d07f0.jpg"
   }
  ]
 });
