@@ -2,6 +2,24 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Обновљен приступ видиковцу изнад манастира Светог Георгија Хозевита",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_163.html",
+   "datum": "2026-11-15",
+   "slika": "slike/4bc2384c366bf37d.jpg"
+  },
+  {
+   "naslov": "Мач Светог Михаила: света линија од Ирске до Свете земље",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_833.html",
+   "datum": "2026-11-15",
+   "slika": "slike/dbca2456bc941e7f.jpg"
+  },
+  {
+   "naslov": "Откривена Велика Исусова црква у Старој Донголи, највећи храм средњовековне Нубије",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_15.html",
+   "datum": "2026-11-15",
+   "slika": "slike/277cefc52025b1d7.jpg"
+  },
+  {
    "naslov": "Јерарх Македонске православне цркве служио Литургију у манастиру Александријске патријаршије у Каиру",
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_168.html",
    "datum": "2026-11-13",
@@ -30,24 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_692.html",
    "datum": "2026-11-13",
    "slika": "slike/e696ff2dfd39ebe9.jpg"
-  },
-  {
-   "naslov": "Свештеницима Православне цркве Молдавије потребан архијерејски благослов за наступе у медијима",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_412.html",
-   "datum": "2026-11-13",
-   "slika": "slike/8e25a1f848fdf127.jpg"
-  },
-  {
-   "naslov": "Пекиншки пастор ухапшен у новом таласу притисака на нерегистроване цркве у Кини",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_13.html",
-   "datum": "2026-11-13",
-   "slika": "slike/02ffdf1aba3f4261.jpg"
-  },
-  {
-   "naslov": "Дивали, празник светлости, обележава се 8. новембра",
-   "link": "https://5pasusa.blogspot.com/2026/11/8.html",
-   "datum": "2026-11-06",
-   "slika": "slike/9c322e6bf6def5fb.jpg"
   }
  ]
 });
