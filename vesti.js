@@ -2,6 +2,36 @@
 window.rpVesti && window.rpVesti({
  "vesti": [
   {
+   "naslov": "Ислам ће до 2035. претећи хришћанство као највећа религија на свету",
+   "link": "https://5pasusa.blogspot.com/2026/11/2035.html",
+   "datum": "2026-11-19",
+   "slika": "slike/f18ed89a204ed4b4.jpg"
+  },
+  {
+   "naslov": "Базилика Светог Петра обележила 400 година од освећења",
+   "link": "https://5pasusa.blogspot.com/2026/11/400.html",
+   "datum": "2026-11-19",
+   "slika": "slike/886c24bf15d87321.jpg"
+  },
+  {
+   "naslov": "Литвански парламентарни одбор одбацио предлог о одузимању православних храмова",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_304.html",
+   "datum": "2026-11-19",
+   "slika": "slike/c74d005df170bf55.jpg"
+  },
+  {
+   "naslov": "Скривени живот жена у Кабулу: како пркосе талибанским забранама",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_533.html",
+   "datum": "2026-11-19",
+   "slika": "slike/1f622297d8f9eb70.jpg"
+  },
+  {
+   "naslov": "Да ли је Свети Јован Златоуст написао Литургију која носи његово име?",
+   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_19.html",
+   "datum": "2026-11-19",
+   "slika": "slike/efd4f626390b31ef.jpg"
+  },
+  {
    "naslov": "Обновљен приступ видиковцу изнад манастира Светог Георгија Хозевита",
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_163.html",
    "datum": "2026-11-15",
@@ -18,36 +48,6 @@ window.rpVesti && window.rpVesti({
    "link": "https://5pasusa.blogspot.com/2026/11/blog-post_15.html",
    "datum": "2026-11-15",
    "slika": "slike/277cefc52025b1d7.jpg"
-  },
-  {
-   "naslov": "Јерарх Македонске православне цркве служио Литургију у манастиру Александријске патријаршије у Каиру",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_168.html",
-   "datum": "2026-11-13",
-   "slika": "slike/70ddcb630340cc3b.jpg"
-  },
-  {
-   "naslov": "Врховни суд Украјине одузео УПЦ Богојављенски манастир у Кременецу",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_836.html",
-   "datum": "2026-11-13",
-   "slika": "slike/d9939659e4e2fd22.jpg"
-  },
-  {
-   "naslov": "Папа Лав XIV враћа се у „свој“ Чиклајо",
-   "link": "https://5pasusa.blogspot.com/2026/11/xiv_01298559619.html",
-   "datum": "2026-11-13",
-   "slika": "slike/29d21ad957a36c03.jpg"
-  },
-  {
-   "naslov": "Служена прва литургија у дрвеној цркви на првом православном гробљу у Јапану",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_719.html",
-   "datum": "2026-11-13",
-   "slika": "slike/3792b3aa25280200.jpg"
-  },
-  {
-   "naslov": "Курани под абдестом. Како Малезија штампа Свету књигу ислама",
-   "link": "https://5pasusa.blogspot.com/2026/11/blog-post_692.html",
-   "datum": "2026-11-13",
-   "slika": "slike/e696ff2dfd39ebe9.jpg"
   }
  ]
 });
